@@ -1,0 +1,23 @@
+Key Steps for the Project
+Feel free to be creative with your solutions, but do follow the CRISP-DM process in finding your solutions.
+
+Begin the project by conducting an exploratory data analysis. Common forms of exploratory data analysis include generating distribution plots to understand the skewedness of different variables or generating histograms to understand how data is distributed. Alternatively, some data scientists like to perform principal component analyses to better understand the underlying structure of the data.
+Next, summarize the findings of your exploration. Explain whether the data needs to be cleaned based on your findings. If it does, perform the data cleaning. If not, move on with selecting the type of machine learning model that is appropriate for predicting from your data.
+Train the machine learning model on your data. Evaluate the model for overall accuracy, recall, and other evaluation scores. Explain what the measures tell us about the model and how it works.
+Imagine a new scenario that requires a prediction from your model to answer. Describe the scenario in your post and run a prediction from the model. Explain the meaning of this prediction and what it tells a reader.
+Project Deliverables
+There are two deliverables that are required for project completion.
+
+A Github repository for your code.
+A blog post of your findings.
+Your Github repository must have the following contents:
+
+A README.md file that communicates the libraries used, the motivation for the project, the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgments.
+Your code in a Jupyter notebook, with appropriate comments, analysis, and documentation.
+You may also provide any other necessary documentation you find necessary.
+For the blog post, pick a platform of your own choice. For example, it can be on your website, a Medium post (Josh's sample report(opens in a new tab) on How Do YOU Become A Developer?), or a Github blog post. Your blog** **must provide the following:
+
+A clear and engaging title and image.
+Your questions of interest.
+Your findings for those questions with a supporting statistic(s), table, or visual.
+Note: The post should not dive into technical details or difficulties of the analysis; this should be saved for Github. The post should be understandable for non-technical people from many fields.
